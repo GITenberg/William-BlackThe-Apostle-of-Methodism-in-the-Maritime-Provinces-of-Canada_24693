@@ -1,0 +1,33 @@
+_repo: William-BlackThe-Apostle-of-Methodism-in-the-Maritime-Provinces-of-Canada_24693
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacLean, John
+    aliases:
+    - Rustler, Robin
+    - Sing, Samson
+    - McLean, John
+    - Old Gustavus
+    birthdate: 1851
+    deathdate: 1928
+    gutenberg_agent_id: '26677'
+    url: http://www.gutenberg.org/2009/agents/26677
+description: ''
+gutenberg_issued: '2008-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24693'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wesleyan Methodist Church -- Clergy -- Biography'
+- !lcc 'CT'
+- !lcsh 'Black, William, 1760-1834'
+- !lcc 'BX'
+title: 'William Black: The Apostle of Methodism in the Maritime Provinces of Canada'
+url: http://www.gutenberg.org/ebooks/24693
